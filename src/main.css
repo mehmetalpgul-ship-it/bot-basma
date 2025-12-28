@@ -1,0 +1,12 @@
+body { font-family: Arial, Helvetica, sans-serif; margin:0; padding:0; }
+.app { padding: 20px; }
+.nav { display:flex; gap:12px; margin-bottom:20px; }
+.container { max-width:720px; margin:0 auto; }
+.auth-card { border:1px solid #ddd; padding:16px; border-radius:8px; }
+.form { display:flex; flex-direction:column; gap:8px; }
+.form input, textarea { padding:8px; width:100%; box-sizing:border-box; }
+button { padding:8px 12px; cursor:pointer; }
+.google-btn { background:#fff; border:1px solid #ccc; }
+.divider { text-align:center; margin:8px 0; color:#666 }
+.error { color: #a00; margin-top:8px; }
+.ai-result { background:#f7f7f7; padding:8px; border-radius:6px; border:1px solid #eee }
